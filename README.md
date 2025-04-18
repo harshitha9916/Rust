@@ -1,0 +1,2 @@
+# Rust
+for coding Rust :)
